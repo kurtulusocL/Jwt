@@ -1,0 +1,5 @@
+your should copy to this Log folder for this directory 
+(directory is typing in line 5 (<file value="C://Log//log.json" />) 
+in log4net.config folder.)
+or 
+create new one for logging with log4net.
